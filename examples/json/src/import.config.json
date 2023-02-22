@@ -1,0 +1,6 @@
+{
+  "test.js": {
+    "test.other.js": ["v1", "v2"],
+    "test.v3.js": ["v3"]
+  }
+}

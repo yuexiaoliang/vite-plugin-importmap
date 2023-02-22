@@ -1,0 +1,6 @@
+{
+  "cat.jpg": {
+    "cat.other.jpg": ["v1", "v2"],
+    "cat.v3.jpg": ["v3"]
+  }
+}

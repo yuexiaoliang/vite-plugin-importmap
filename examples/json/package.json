@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.1.4",
+    "vite-plugin-importmap": "link:..\\.."
+  }
+}
