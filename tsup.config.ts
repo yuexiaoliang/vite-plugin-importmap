@@ -6,6 +6,8 @@ export default defineConfig({
   dts: true,
   clean: true,
   sourcemap: false,
+  shims: true,
+  splitting: false,
   minify: true,
   external: ['vite'],
 })
