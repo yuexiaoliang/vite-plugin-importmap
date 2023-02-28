@@ -2,9 +2,7 @@
 
 I call this SASS at the code level.
 
-我称之为代码层面的 SASS 化。
-
-## 使用
+## Usage
 
 ```js
 import importmap from 'vite-plugin-importmap'
@@ -16,7 +14,7 @@ export default defineConfig({
 })
 ```
 
-## Example
+## Examples
 
 [More](examples)
 
